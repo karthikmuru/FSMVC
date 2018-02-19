@@ -6,7 +6,7 @@ The process in short :
 2) Seperate them into blocks of predefined size.
 3) Mine the frequent patterns for each block.
 4) Replace the frequent patterns with the code for each block.
-5) Combine the replaced block into a single file.
+5) Combine the replaced blocks into a single file.
 
 Description of the process done by each script : 
 
