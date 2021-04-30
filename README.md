@@ -1,3 +1,5 @@
+Paper: [Frequent Sequence Mining approach to Video Compression](https://link.springer.com/chapter/10.1007/978-981-13-0716-4_8#:~:text=This%20work%20provides%20an%20approach,sequence%20mining%20in%20video%20compression.&text=Redundant%20information%20and%20repeating%20sequences,data%20mining%20and%20coding%20techniques.)
+
 # Instructions
 
 The process in short : 
